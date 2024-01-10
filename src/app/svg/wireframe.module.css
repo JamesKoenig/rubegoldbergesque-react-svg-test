@@ -4,3 +4,9 @@
     width: 750px;
     padding: 10px;
 }
+
+.line {
+    stroke-width: 2px;
+    stroke: gray;
+    vector-effect: non-scaling-stroke;
+}
